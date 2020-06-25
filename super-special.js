@@ -1,4 +1,4 @@
-const youreSuperSpecial = false
+const youreSuperSpecial = false;
+const doYouLikeCarrotCake = "yes I do";
 
-
-console.log({ youreSuperSpecial })
+console.log({ youreSuperSpecial });
