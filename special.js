@@ -1,4 +1,4 @@
-const youreSpecial = true
+const youreSpecial = true;
+const doYouLikeCarrotCake = "yes I do";
 
-
-console.log({ youreSpecial })
+console.log({ youreSpecial });
