@@ -1,4 +1,5 @@
-const youreSuperSpecial = false
+const youreSuperSpecial = true 
+const doYouLikeCarrotCake = true
 
 
-console.log({ youreSuperSpecial })
+console.log({ youreSuperSpecial, doYouLikeCarrotCake })
